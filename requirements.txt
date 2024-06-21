@@ -1,0 +1,5 @@
+flask
+identity
+requests
+flask-cors
+flask-session
